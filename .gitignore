@@ -27,3 +27,7 @@ __pycache__/
 
 # Database
 *.db
+# SQLite database files
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
